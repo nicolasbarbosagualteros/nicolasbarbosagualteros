@@ -1,7 +1,3 @@
-<h1 align="center">Q'hubo!</h1>
-
-###
-
 <p align="left">Estudiante de ingeniería de sistemas, intento de programador, matemático entusiasta y revolucionario.</p>
 
 ###
